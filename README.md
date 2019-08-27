@@ -1,5 +1,5 @@
 # Opinion-Extraction
-
+A simple rule-based method for extracting speech and ner from Chinese news.
 ## Requirements
 
 - Python 3.6
